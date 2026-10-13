@@ -1,59 +1,73 @@
 # Hi, I'm Karthik Sujith 
 
-### BCA AI & ML Graduate | Aspiring AI Engineer
+### BCA Graduate | Aspiring AI Engineer | Python & Machine Learning
 
-I'm a Computer Applications graduate specializing in Artificial Intelligence and Machine Learning.
+I'm a BCA graduate from Yenepoya University with a strong interest in Artificial Intelligence, Machine Learning, and software development.
 
-I'm interested in building practical applications using **Python, Machine Learning, AI, and Web Development**.
+I enjoy using technology to solve practical problems and building projects that help me apply my programming and analytical skills. I'm continuously learning and developing my knowledge of Python, machine learning, and software development.
 
----
+## About Me
 
-##  About Me
+- BCA graduate from Yenepoya University
+- Interested in AI Engineering, Machine Learning, and Data Science
+- Building practical projects with Python and web development technologies
+- Exploring data analysis, machine learning pipelines, and model evaluation
+- Working towards a career in AI and Machine Learning
 
--  BCA graduate specializing in Artificial Intelligence & Machine Learning
--  Interested in AI Engineering, Machine Learning, Data Science, and Software Development
--  Currently strengthening my skills in Python, SQL, Machine Learning, and AI
--  Building practical projects to improve my programming and problem-solving skills
--  Goal: Build a career as an AI Engineer
+## Technical Skills
 
----
-
-## Skills
-
-**Programming**
+**Programming Languages**
 - Python
 - PHP
-- JavaScript
+
+**AI & Machine Learning**
+- Machine Learning fundamentals
+- Data preprocessing
+- Classification
+- Model evaluation
+
+**Data Analysis & Visualization**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 **Web Development**
 - HTML
 - CSS
 - Laravel
+- Streamlit
 
-**Database**
+**Databases**
 - MySQL
 - SQL
 
-**AI & Machine Learning**
-- Machine Learning
-- Artificial Intelligence
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+## Projects
 
----
+### 1. Student Performance Prediction
 
-##  Projects
+A machine learning classification project that predicts student academic performance as **Pass** or **At Risk** using eight selected student-related features.
 
-###  Stayzio — Hotel Booking System
+**Technologies:** Python, Pandas, Scikit-learn, Joblib, Streamlit, Jupyter Notebook
+
+**Key Features**
+- Exploratory data analysis and data preprocessing
+- Feature scaling and categorical encoding
+- Logistic Regression classification pipeline
+- Model evaluation using accuracy and class-specific recall
+- Streamlit web interface for making predictions
+
+**Status:** Completed
+
+
+### 2. Stayzio — Hotel Booking System
 
 A full-stack hotel booking web application built using Laravel, PHP, and MySQL.
 
-**Technologies:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
+**Technologies:** PHP, Laravel, MySQL, HTML, CSS, JavaScript
 
-**Key features:**
+**Key Features**
 - Property browsing
 - Booking management
 - Date-based availability
