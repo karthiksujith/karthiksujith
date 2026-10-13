@@ -1,4 +1,4 @@
-# Hi, I'm Karthik Sujith 👋
+# Hi, I'm Karthik Sujith 
 
 ### BCA AI & ML Graduate | Aspiring AI Engineer
 
@@ -8,17 +8,17 @@ I'm interested in building practical applications using **Python, Machine Learni
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 BCA graduate specializing in Artificial Intelligence & Machine Learning
-- 💻 Interested in AI Engineering, Machine Learning, Data Science, and Software Development
-- 🌱 Currently strengthening my skills in Python, SQL, Machine Learning, and AI
-- 🔨 Building practical projects to improve my programming and problem-solving skills
-- 🎯 Goal: Build a career as an AI Engineer
+-  BCA graduate specializing in Artificial Intelligence & Machine Learning
+-  Interested in AI Engineering, Machine Learning, Data Science, and Software Development
+-  Currently strengthening my skills in Python, SQL, Machine Learning, and AI
+-  Building practical projects to improve my programming and problem-solving skills
+-  Goal: Build a career as an AI Engineer
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Programming**
 - Python
@@ -45,9 +45,9 @@ I'm interested in building practical applications using **Python, Machine Learni
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🏨 Stayzio — Hotel Booking System
+###  Stayzio — Hotel Booking System
 
 A full-stack hotel booking web application built using Laravel, PHP, and MySQL.
 
@@ -61,7 +61,7 @@ A full-stack hotel booking web application built using Laravel, PHP, and MySQL.
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - 💼 LinkedIn: [Karthik Sujith](https://www.linkedin.com/in/karthik-sujith-0943a5292/)
 - 💻 GitHub: [karthiksujith](https://github.com/karthiksujith)
